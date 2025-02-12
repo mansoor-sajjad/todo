@@ -50,7 +50,3 @@ We have access to response methods like `respond`, `respondText`, `respondHtml`,
 We can access the query parameters using `call.request.queryParameters["name"]`.
 
 Path Patterns can have placeholders like `/user/{name}`.
-
-### Non-Idomatic way
-
-```kotlin
